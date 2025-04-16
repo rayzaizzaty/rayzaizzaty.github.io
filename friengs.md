@@ -7,6 +7,6 @@ title: Friends
 
 berikut teman-teman saya dikelas:
 
-- [Zackyurrahman](https://zackyurrahman.github.io/Zackyurrahman.github.io/)
+- [Zakyurrahman](https://zakyurrahman.github.io/Zackyurrahman.github.io/)
 - [Muhammad rayyan alfarisy](https://rayyanalfarisy.github.io/Muhammadrayyanalfarisy.github.io/)
-- [Nasywa nurshibraa](https://nsyawanurshibraa.github.io/)
+- [Nasywa nurshabira](https://nsywaanurshbiraa.github.io/)
